@@ -1,5 +1,10 @@
 from Punto import Punto
 
+class Programa:
+
+    def __init__(self):
+        pass
+    
 messi=Punto()
 elBicho=Punto()
 iniesta=Punto()
