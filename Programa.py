@@ -4,7 +4,7 @@ class Programa:
 
     def __init__(self):
         pass
-    
+
 messi=Punto()
 elBicho=Punto()
 iniesta=Punto()
@@ -17,3 +17,4 @@ iniesta.x=15
 iniesta.y=30
 
 a=messi.calcular_distancia(elBicho,iniesta)
+print(a)
